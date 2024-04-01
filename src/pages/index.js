@@ -72,7 +72,7 @@ const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=de
 const IndexPage = () => (
   <Layout>
   <div style={{textAlign: "center", marginTop: "100px"}}>
-  <h1 style={{color: "red", fontSize: "150px"}}>April Fools!</h1>
+  <h1 style={{color: "red", fontSize: "120px"}}>April Fools!</h1>
   <div style={{marginTop: "100px"}}>
       <a href="http://www.ilovedaniela.com">
         <br/>
