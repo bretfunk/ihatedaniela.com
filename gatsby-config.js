@@ -12,7 +12,7 @@ module.exports = {
     title: `IHateDaniela.Com`,
     description: `I hate Daniela.`,
     author: `Bret Funk`,
-    siteUrl: `ihatedaniela.com`,
+    siteUrl: `www.ilovedaniela.com`,
   },
   plugins: [
     `gatsby-plugin-image`,
