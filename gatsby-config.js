@@ -12,7 +12,7 @@ module.exports = {
     title: `IHateDaniela.Com`,
     description: `I hate Daniela.`,
     author: `Bret Funk`,
-    siteUrl: `http.ilovedaniela.com`,
+    siteUrl: `https://ihatedaniela.com/`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -36,7 +36,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: ``, // This path is relative to the root of the site.
+        icon: `src/images/bret.png`, // This path is relative to the root of the site.
       },
     },
   ],
